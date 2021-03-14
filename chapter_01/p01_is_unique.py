@@ -3,7 +3,7 @@
 
 # Input: string
 # Output: True/False
-# Constraints: no additional data structures, optimize
+# Constraints: no additional data structures, optimize your solution
 # Edge Cases: empty string
 
 
